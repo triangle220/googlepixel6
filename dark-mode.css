@@ -36,8 +36,8 @@ a {
     color:#fff
 }
 .wrapper {
-    height: 100vh;
-    width: 100%;
+    height: 10vh;
+    width: 15%;
     display: flex;
     flex-direction: column;
     justify-content: center;
